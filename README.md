@@ -15,7 +15,7 @@ Dodatkowo jest możliwość dodawania reackji chemicznych.
 [Przykład](https://github.com/aleksandra-rapala/MyChemical/blob/400e5f142022479d12d0dc2f9ab5c5de185c7033/public/views/home.php#L12)
 10. POSTGRESQL -> Połączenie z bazą PostgreSQL, stosowano odpowiednie typy, połączenia przez PDO itd.
 11. ZŁOŻONOŚĆ BAZY DANYCH -> Baza danych zawiera wszystkie typy relacji, co widać na wygenerowanym diagramie ERD
-[Wygenerowany diagram ERD](https://github.com/aleksandra-rapala/MyChemical/blob/55f3425225ba1b85443da9280fc46082e38a4173
+[Wygenerowany diagram ERD](https://github.com/aleksandra-rapala/MyChemical/blob/55f3425225ba1b85443da9280fc46082e38a4173)
 12. PHP -> Wersja języka PHP co najmniej 7.4, użyto funkcji wbudowanych w PHP oraz bardzo dobra umiejętność posługiwania się składnią.
 13. JAVA SCRIPT
     Zastosowanie języka Javascript w utworzeniu
