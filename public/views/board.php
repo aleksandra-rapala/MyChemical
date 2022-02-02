@@ -9,7 +9,6 @@ else{
 
 
 <head>
-
     <link rel="stylesheet" type="text/css" href="/public/css/style.css">
     <link rel="stylesheet" type="text/css" href="/public/css/style_home.css">
     <link rel="stylesheet" type="text/css" href="/public/css/style_po_zalogowaniu.css">
@@ -18,15 +17,12 @@ else{
 
     <script type="text/javascript" src="/public/js/heart.js" defer ></script>
     <script type="text/javascript" src="/public/js/kosz.js" defer ></script>
-    <script type="text/javascript" src="/public/js/search_reaction.js" defer ></script>
-    <script type="text/javascript" src="/public/js/search_table.js" defer ></script>
-    <script type="text/javascript" src="/public/js/search_calculator.js" defer ></script>
+    <script type="text/javascript" src="/public/js/search.js" defer ></script>
 
-    <title>LOGIN PAGE</title>
+    <title>BOARD PAGE</title>
 </head>
 
 <body>
-
 
 
     <div class="top_container">
@@ -50,17 +46,8 @@ else{
 
 
 
-    <div class="pasek_menu">
-        <img  src="/public/img/logo_blekitne.png">
-        <div class="menu">
-            <ul>
-                <li id="active_one"><i class="fas fa-sign-out-alt"></i><a onclick="window.location.href='/wylogowanie'"> Logout</a></li>
-                <li ><a  onclick="window.location.href='/account/'">My account</a></li>
-            </ul>            
-        </div>
-    </div>
+    <?php include('public/views/view_template/menu_logout_account.php') ?>
 
-    
 
     <div class="middle_container_out">
         
@@ -87,6 +74,7 @@ else{
             <div class="search-bar">
                 <input placeholder="Search reaction">
             </div>
+
 
 
             <section id="tables" class="middle_container_tab">
@@ -200,34 +188,7 @@ else{
 
 
 
-
-
-
-        
-
-    <div class="bottom_container">
-
-        <div class="top_container_text">
-            <div id="basic_text">
-                <p>Discover chemistry</p>
-                <p id="green_text">in THE MOST</p>
-                <p id="green_text">CONVENIENT</p>
-                <p>way</p>
-            </div>
-        </div>
-
-        <div id="kontakt">
-            <p>Masz pytanie?<br>Skontaktuj się z nami przez adres <br><b>mychemical@gmail.com</b></p>
-        </div>
-        <div id="spolecznosc">
-            <p>Znajdź nas również na</p>
-            <div id="ikony">
-                <i class="fab fa-facebook-square fa-lg"></i>
-                <i class="fab fa-instagram fa-lg"></i>
-                <i class="fab fa-snapchat-square fa-lg"></i>
-             </div>
-        </div>
-    </div>
+    <?php include('public/views/view_template/footer.php') ?>
 </body>
 
 

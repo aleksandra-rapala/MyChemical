@@ -19,9 +19,8 @@ else{
     <script type="text/javascript" src="/public/js/lista.js" defer ></script>
 
 
-
     <script src="https://kit.fontawesome.com/7b3efb56a6.js" crossorigin="anonymous"></script>
-    <title>LOGIN PAGE</title>
+    <title>PERCENTAGE PAGE</title>
 </head>
 
 <body>
