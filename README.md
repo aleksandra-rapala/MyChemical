@@ -9,12 +9,17 @@ Dodatkowo jest możliwość dodawania reakcji chemicznych.
 Aplikacja posiada dwa typy rodzajów kont: użytkownik oraz administrator.
 
 Użytkownik posiada funkcjonalności:
+
 -> przeglądać i wyszukiwać w "My board" polikowane tablice, kalkulatory oraz dodane reakcje chemiczne
+
 -> przeglądać kalkulatory oraz tablice
+
 -> dodawać reakcje chemiczne
 
 Administrator posiada funkcjonalności:
+
 -> dodawać nowe tablice
+
 -> przeglądać kalkulatory oraz tablice (bez możliwości likowania)
 
                         Home - Strona główna aplikacji
