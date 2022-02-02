@@ -8,14 +8,14 @@ Dodatkowo jest możliwość dodawania reackji chemicznych.
 
 Home
 ![Zrzut ekranu #1](https://github.com/aleksandra-rapala/MyChemical/blob/92ca31b614b1249f1f15ff133601855d94cb68b5/Screen_widok_webowy/screen1.png)
+![Zrzut ekranu #1](https://github.com/aleksandra-rapala/MyChemical/blob/6167beb92dd099bf117fe10a1d468f60e74c930b/Screeny_widok_mobilny/screen1.png)
+
 
 Logowanie
 ![Zrzut ekranu #2](https://github.com/aleksandra-rapala/MyChemical/blob/2eb9cbc6016f9a76b0495e8aed8af2c14769fdc2/Screen_widok_webowy/screen2.png)
 
 Rejestracja z walidacją danych
 ![Zrzut ekranu #3](https://github.com/aleksandra-rapala/MyChemical/blob/2eb9cbc6016f9a76b0495e8aed8af2c14769fdc2/Screen_widok_webowy/screen4.png)
-
-![Zrzut ekranu #1](https://github.com/aleksandra-rapala/MyChemical/blob/6167beb92dd099bf117fe10a1d468f60e74c930b/Screeny_widok_mobilny/screen1.png) ![Zrzut ekranu #1](https://github.com/aleksandra-rapala/MyChemical/blob/c4d61139b32baafc0d1c95d62b6ca5032685e33e/Screeny_widok_mobilny/screen2.jpg) ![Zrzut ekranu #1](https://github.com/aleksandra-rapala/MyChemical/blob/c4d61139b32baafc0d1c95d62b6ca5032685e33e/Screeny_widok_mobilny/screen3.jpg)
 
 
 
@@ -55,6 +55,9 @@ Account
 12. DESIGN -> Projekt utrzymany jest w starannej i czytelnej stylistyce. Stosowane są klasy CSS, brak mieszania styli w plikach HTML. Kod CSS jest czytelny i poprawny. [Przykład czytelnego kodu Css](https://github.com/aleksandra-rapala/MyChemical/blob/400e5f142022479d12d0dc2f9ab5c5de185c7033/public/css/style.css#L1)
 13. RESPONSYWNOŚĆ -> Zaprezentowano co najmniej 5 widoków responsywnych, działających pod różne urządzanie wybrane z Narzędzi Deweloperskich przeglądarki. Zastosowano CSS media queries. 
 [Media queries](https://github.com/aleksandra-rapala/MyChemical/blob/400e5f142022479d12d0dc2f9ab5c5de185c7033/public/css/style.css#L167)
+![Zrzut ekranu](https://github.com/aleksandra-rapala/MyChemical/blob/47442d1ee2ae338adc652951d0a562a92c39fd8e/Screeny_widok_mobilny/screen1.png)
+
+
 14. LOGOWANIE -> Proces logowania użytkowników w oparciu o bazę danych, zastosowanie odpowiedniego mapowania i weryfikacji. 
 [Logowanie](https://github.com/aleksandra-rapala/MyChemical/blob/400e5f142022479d12d0dc2f9ab5c5de185c7033/src/controllers/SecurityController.php#L22)
 15. SESJA UŻYTKOWNIKA
