@@ -6,6 +6,7 @@ Aplikacja jest przeznaczona dla młodych ludzi uczących się chemii.
 Dzięki niej można mieć zawsze pod ręką ulubione tablice chemiczne lub przydatne kalkulatory.
 Dodatkowo jest możliwość dodawania reackji chemicznych.
 
+![Zrzut ekranu #1](https://github.com/aleksandra-rapala/MyChemical/blob/92ca31b614b1249f1f15ff133601855d94cb68b5/Screen_widok_webowy/screen1.png)
 1. DOKUMENTACJE W README.MD
 2. KOD NAPISANY OBIEKTOWO (CZĘŚĆ BACKENDOWA)
 3. DIAGRAM ERD -> [Wygenerowany diagram ERD](https://github.com/aleksandra-rapala/MyChemical/blob/55f3425225ba1b85443da9280fc46082e38a4173/diagram_bazy_danych_navicat.pdf)
