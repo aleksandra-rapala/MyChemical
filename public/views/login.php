@@ -12,8 +12,8 @@
     <div class="top_container">
         <?php include('public/views/view_template/top_container.php') ?>
         <div class="beforelogin-container">
-            <p id="button_register"><a href="register">Register</a></p>
-            <p id="button_login"><a href="login">Login</a></p>
+            <p id="button_register"><a href="/register">Register</a></p>
+            <p id="button_login"><a href="/login">Login</a></p>
         </div>
     </div>
 
@@ -22,9 +22,9 @@
         <img src="/public/img/logo_blekitne.png">
         <div class="menu">
             <ul>
-                <li><i class="fas fa-home fa-lg"></i><a href="index"> Home</a></li>
-                <li id="active_one"><a  href="login">Login</a></li>
-                <li><a href="register">Register</a></li>
+                <li><i class="fas fa-home fa-lg"></i><a href="/index"> Home</a></li>
+                <li id="active_one"><a  href="/login">Login</a></li>
+                <li><a href="/register">Register</a></li>
             </ul>            
         </div>
     </div>
@@ -35,11 +35,11 @@
         <div class="middle_container">
             <div class="signup">
                 <p>Start learning now</p>
-                <button id="button_sign_up" onclick="window.location.href='register'"">Sign up</button>
+                <button id="button_sign_up" onclick="window.location.href='/register'"">Sign up</button>
             </div>
 
             <div class="login_container">
-                <form action="logowanie" method="POST">
+                <form action="/logowanie" method="POST">
 
                     <div id="jpudlo">
                         <p id="wybor">E-mail</p>
@@ -64,7 +64,7 @@
                 </form>
             </div>
 
-            <img src="public/img/girl.png">
+            <img src="/public/img/girl.png">
         </div>
        
     </div>

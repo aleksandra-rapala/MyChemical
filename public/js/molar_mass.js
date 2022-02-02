@@ -67,26 +67,26 @@ function dodaj_pierwiastek(){
     }
 
 if(wartosc_wybrana_przez_user=="brak")  alert("Nie wybrano pierwiastka!");
+else {
+    for (let i = 0; i < 5; i++) {
 
-    for(let i=0; i<5; i++){
-
-        if(tab[i].id == "puste"){
+        if (tab[i].id == "puste") {
             tab[i].id = "zajete";
             tab[i].innerHTML = wartosc_wybrana_przez_user;
-            tab[i+5].innerHTML = Number(1);
+            tab[i + 5].innerHTML = Number(1);
             molar_mass_tab.push(wartosc_wybrana_przez_user_molar_mass);
             break; //wychodzimy z petli bo pole bylo puste wiec tutaj zostal wpisane!!!
         }
-
-        else{
-            if(tab[i].innerHTML==wartosc_wybrana_przez_user){
-                tab[i+5].innerHTML = Number(tab[i+5].innerHTML) + Number(1);
+        else if (tab[i].id == "zajete") {
+            if (tab[i].innerHTML == wartosc_wybrana_przez_user) {
+                tab[i + 5].innerHTML = Number(tab[i + 5].innerHTML) + Number(1);
                 break; //wychodzimy z petli bo tutajwpisujemy wiec juz wpisane!!
-            }
-            else{
+            } else {
+                if(i==4) alert("Brak miejsca. Użyj clear lub oblicz.");
                 continue; //tu nie mozna wpisac wiec szukamy dalej....
             }
         }
-        alert("Brak miejsca. Użyj clear lub oblicz.");
+
     }
+}
 }
