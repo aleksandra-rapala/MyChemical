@@ -56,6 +56,7 @@ Rejestracja z walidacją danych
 
 -> Zaprezentowano co najmniej 5 widoków responsywnych, działających pod różne urządzanie wybrane z Narzędzi Deweloperskich przeglądarki. Zastosowano CSS media queries. 
 [Media queries](https://github.com/aleksandra-rapala/MyChemical/blob/400e5f142022479d12d0dc2f9ab5c5de185c7033/public/css/style.css#L167)
+
 14. LOGOWANIE -> Proces logowania użytkowników w oparciu o bazę danych, zastosowanie odpowiedniego mapowania i weryfikacji. 
 [Logowanie](https://github.com/aleksandra-rapala/MyChemical/blob/400e5f142022479d12d0dc2f9ab5c5de185c7033/src/controllers/SecurityController.php#L22)
 15. SESJA UŻYTKOWNIKA
