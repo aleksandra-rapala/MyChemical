@@ -20,7 +20,7 @@
                 <button id="button_sign_up" onclick="window.location.href='register'"">Sign up</button>
             </div>
             <div class="opis">
-                <p id="tytul">Discover chemistry</p>
+                <p id="tytul"></p>
                 <p>Create your own blackboard </p>
                 <p>and remember that</p>
                 <p>learning doesn't have to be boring!</p>
