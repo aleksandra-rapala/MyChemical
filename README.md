@@ -46,7 +46,7 @@ Administrator posiada funkcjonalności:
 ![Zrzut ekranu #10](https://github.com/aleksandra-rapala/MyChemical/blob/bfc4612d07bdd7261f3efc56fff16c07b536d23b/Screen_widok_webowy/screen13.png)
 
 
-            Administrator posiada inną zakładkę My board- z możliwością dodawania tablic (Administrator nie posiada zakładki Add reactions)
+        Administrator posiada inną zakładkę My board- z możliwością dodawania tablic (Administrator nie posiada zakładki Add reactions)
 ![Zrzut ekranu #11](https://github.com/aleksandra-rapala/MyChemical/blob/ce3696b92753eb4971291719277ded7b579dc302/Screen_widok_webowy/screen11.png)
             
             Administrator nie posiada również możliwości likowania
