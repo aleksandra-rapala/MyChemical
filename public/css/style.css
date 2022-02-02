@@ -18,6 +18,7 @@ button{
     text-align: center;
     font: normal normal bold 40px/66px Yu Gothic UI;
     color: #FFFAFA;
+    cursor: pointer;
 }
 
 

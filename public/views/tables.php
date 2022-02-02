@@ -19,7 +19,15 @@ else{
 
 <body>
 
-<img class="dymek" src="/public/img/dymek1.png"></img>
+
+<?php
+if($_SESSION['account_type']==1){
+
+    ?>
+    <img class="dymek" src="/public/img/dymek1.png"></img>
+<?php }
+?>
+
 
     <div class="top_container">
         <div class="pasek_menu_two">
