@@ -8,14 +8,14 @@ Dodatkowo jest możliwość dodawania reackji chemicznych.
 
 1. DOKUMENTACJE W README.MD
 2. KOD NAPISANY OBIEKTOWO (CZĘŚĆ BACKENDOWA) -> Kod został napisany obiektowo.
-3. DIAGRAM ERD -> Wygenerowany diagram ERD -> Link
-4. GIT - commity, a wersja ostateczna jest zmergowana do gałęzi main.
-5. REALIZACJA TEMATU -> Temat projektu zgodny z przesłanym zgłoszeniem, funkcjonalność projektu została pokryta w co najmniej ~60%.
-6. HTML - niektóre widoki zostały umieszczone w szablonach, aby nie replikować kodu, np. <?php include('footer.php') ?>
-7. POSTGRESQL -> Połączenie z bazą PostgreSQL, stosowano odpowiednie typy, połączenia przez PDO itd.
-8. ZŁOŻONOŚĆ BAZY DANYCH -> Baza danych zawiera wszystkie typy relacji, co widać na wygenerowanym diagramie ERD -> Link
-9. PHP -> Wersja języka PHP co najmniej 7.4, użyto funkcji wbudowanych w PHP oraz bardzo dobra umiejętność posługiwania się składnią.
-10. JAVA SCRIPT
+3. DIAGRAM ERD -> [Wygenerowany diagram ERD](https://github.com/aleksandra-rapala/MyChemical/blob/55f3425225ba1b85443da9280fc46082e38a4173/diagram_bazy_danych_navicat.pdf)
+7. GIT - commity, a wersja ostateczna jest zmergowana do gałęzi main.
+8. REALIZACJA TEMATU -> Temat projektu zgodny z przesłanym zgłoszeniem, funkcjonalność projektu została pokryta w co najmniej ~60%.
+9. HTML - niektóre widoki zostały umieszczone w szablonach, aby nie replikować kodu, np. <?php include('footer.php') ?>
+10. POSTGRESQL -> Połączenie z bazą PostgreSQL, stosowano odpowiednie typy, połączenia przez PDO itd.
+11. ZŁOŻONOŚĆ BAZY DANYCH -> Baza danych zawiera wszystkie typy relacji, co widać na wygenerowanym diagramie ERD -> Link
+12. PHP -> Wersja języka PHP co najmniej 7.4, użyto funkcji wbudowanych w PHP oraz bardzo dobra umiejętność posługiwania się składnią.
+13. JAVA SCRIPT
     Zastosowanie języka Javascript w utworzeniu
     → walidacji formularzy (Przy rejestracji)   -> Link
     → zapytań Fetch API (Przy dawaniu serduszek)  -> Link
