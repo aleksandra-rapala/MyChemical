@@ -90,7 +90,7 @@ else{
     </div>
 
 
-    
+
     <?php include('public/views/view_template/footer.php') ?>
 </body>
 
