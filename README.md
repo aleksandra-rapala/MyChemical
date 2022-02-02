@@ -7,6 +7,28 @@ Dzięki niej można mieć zawsze pod ręką ulubione tablice chemiczne lub przyd
 Dodatkowo jest możliwość dodawania reackji chemicznych.
 
 ![Zrzut ekranu #1](https://github.com/aleksandra-rapala/MyChemical/blob/92ca31b614b1249f1f15ff133601855d94cb68b5/Screen_widok_webowy/screen1.png)
+
+Logowanie
+![Zrzut ekranu #2](https://github.com/aleksandra-rapala/MyChemical/blob/2eb9cbc6016f9a76b0495e8aed8af2c14769fdc2/Screen_widok_webowy/screen2.png)
+
+Rejestracja z walidacją danych
+![Zrzut ekranu #3](https://github.com/aleksandra-rapala/MyChemical/blob/2eb9cbc6016f9a76b0495e8aed8af2c14769fdc2/Screen_widok_webowy/screen4.png)
+
+My board - z możliwością wyszukiwania
+![Zrzut ekranu #4](https://github.com/aleksandra-rapala/MyChemical/blob/2eb9cbc6016f9a76b0495e8aed8af2c14769fdc2/Screen_widok_webowy/screen5.png)
+
+Kalkulatory
+![Zrzut ekranu #5](https://github.com/aleksandra-rapala/MyChemical/blob/2eb9cbc6016f9a76b0495e8aed8af2c14769fdc2/Screen_widok_webowy/screen8.png)
+![Zrzut ekranu #6](https://github.com/aleksandra-rapala/MyChemical/blob/2eb9cbc6016f9a76b0495e8aed8af2c14769fdc2/Screen_widok_webowy/screen9.png)
+
+Tablice
+![Zrzut ekranu #7](https://github.com/aleksandra-rapala/MyChemical/blob/2eb9cbc6016f9a76b0495e8aed8af2c14769fdc2/Screen_widok_webowy/screen6.png)
+![Zrzut ekranu #8]https://github.com/aleksandra-rapala/MyChemical/blob/2eb9cbc6016f9a76b0495e8aed8af2c14769fdc2/Screen_widok_webowy/screen7.png
+
+Account
+![Zrzut ekranu #9](https://github.com/aleksandra-rapala/MyChemical/blob/2eb9cbc6016f9a76b0495e8aed8af2c14769fdc2/Screen_widok_webowy/screen10.png)
+
+
 1. DOKUMENTACJE W README.MD
 2. KOD NAPISANY OBIEKTOWO (CZĘŚĆ BACKENDOWA)
 3. DIAGRAM ERD -> [Wygenerowany diagram ERD](https://github.com/aleksandra-rapala/MyChemical/blob/55f3425225ba1b85443da9280fc46082e38a4173/diagram_bazy_danych_navicat.pdf)
