@@ -7,7 +7,8 @@ Dzięki niej można mieć zawsze pod ręką ulubione tablice chemiczne lub przyd
 Dodatkowo jest możliwość dodawania reackji chemicznych.
 
 ![Zrzut ekranu #1](https://github.com/aleksandra-rapala/MyChemical/blob/92ca31b614b1249f1f15ff133601855d94cb68b5/Screen_widok_webowy/screen1.png)
-![Zrzut ekranu #1](https://github.com/aleksandra-rapala/MyChemical/blob/6167beb92dd099bf117fe10a1d468f60e74c930b/Screeny_widok_mobilny/screen1.png)
+
+![Zrzut ekranu #1](https://github.com/aleksandra-rapala/MyChemical/blob/6167beb92dd099bf117fe10a1d468f60e74c930b/Screeny_widok_mobilny/screen1.png) ![Zrzut ekranu #1](https://github.com/aleksandra-rapala/MyChemical/blob/6167beb92dd099bf117fe10a1d468f60e74c930b/Screeny_widok_mobilny/screen1.png)
 
 Logowanie
 ![Zrzut ekranu #2](https://github.com/aleksandra-rapala/MyChemical/blob/2eb9cbc6016f9a76b0495e8aed8af2c14769fdc2/Screen_widok_webowy/screen2.png)
