@@ -55,7 +55,7 @@ Administrator posiada funkcjonalności:
 ![Zrzut ekranu #11](https://github.com/aleksandra-rapala/MyChemical/blob/ce3696b92753eb4971291719277ded7b579dc302/Screen_widok_webowy/screen11.png)
             
             Administrator nie posiada również możliwości likowania
-![Zrzut ekranu #12](https://github.com/aleksandra-rapala/MyChemical/blob/ce3696b92753eb4971291719277ded7b579dc302/Screen_widok_webowy/screen12.png)            
+![Zrzut ekranu #12](https://github.com/aleksandra-rapala/MyChemical/blob/804bd92e1a4b5b64f26b822e902b04809941608f/Screen_widok_webowy/screen12.png)            
 
 
 1. DOKUMENTACJE W README.MD
