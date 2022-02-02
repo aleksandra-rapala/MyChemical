@@ -45,6 +45,6 @@ Dodatkowo jest możliwość dodawania reackji chemicznych.
 [Hashowanie przy użyciu soli](https://github.com/aleksandra-rapala/MyChemical/blob/400e5f142022479d12d0dc2f9ab5c5de185c7033/src/controllers/SecurityController.php#L97)
 22. BRAK REPLIKACJI KODU -> Starałam się, aby kod nie był replikowany.
 23. CZYSTOŚĆ I PRZEJRZYSTOŚĆ KODU -> Zachowano czystość i przejrzystość kodu.
-    *24. BAZA DANYCH ZRZUCONA DO PLIKU .SQL
+24. BAZA DANYCH ZRZUCONA DO PLIKU .SQL
     Pobrałam kopię bazy danych wyeksportowaną do pliku .sql, który umieściłam w repozytorium. [Plik sql](https://github.com/aleksandra-rapala/MyChemical/blob/400e5f142022479d12d0dc2f9ab5c5de185c7033/mychemical_baza_danych.sql#L1)
    
