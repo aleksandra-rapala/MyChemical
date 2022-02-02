@@ -31,6 +31,16 @@ Dodatkowo jest możliwość dodawania reackji chemicznych.
             Account - swoje konto z widocznym emailem zalogowanego użytkownika (w przyszłości można zrobić np. usuwanie konta)
 ![Zrzut ekranu #9](https://github.com/aleksandra-rapala/MyChemical/blob/2eb9cbc6016f9a76b0495e8aed8af2c14769fdc2/Screen_widok_webowy/screen10.png)
 
+            Zakładka Add reactions poznwala użytkownikowi dodawac do swojej My board reakcje chemiczne
+            
+            tu zdjecie
+
+
+            Administrator posiada inną zakładkę My board- z możliwością dodawania tablic (Administrator nie posiada zakładki Add reactions)
+![Zrzut ekranu #11](https://github.com/aleksandra-rapala/MyChemical/blob/ce3696b92753eb4971291719277ded7b579dc302/Screen_widok_webowy/screen11.png)
+            
+            Administrator nie posiada również możliwości likowania
+![Zrzut ekranu #12](https://github.com/aleksandra-rapala/MyChemical/blob/ce3696b92753eb4971291719277ded7b579dc302/Screen_widok_webowy/screen12.png)            
 
 1. DOKUMENTACJE W README.MD
 2. KOD NAPISANY OBIEKTOWO (CZĘŚĆ BACKENDOWA)
