@@ -6,12 +6,10 @@ Aplikacja jest przeznaczona dla młodych ludzi uczących się chemii.
 Dzięki niej można mieć zawsze pod ręką ulubione tablice chemiczne lub przydatne kalkulatory.
 Dodatkowo jest możliwość dodawania reackji chemicznych.
 
-Home
+            Home
 ![Zrzut ekranu #1](https://github.com/aleksandra-rapala/MyChemical/blob/92ca31b614b1249f1f15ff133601855d94cb68b5/Screen_widok_webowy/screen1.png)
-![Zrzut ekranu #1](https://github.com/aleksandra-rapala/MyChemical/blob/6167beb92dd099bf117fe10a1d468f60e74c930b/Screeny_widok_mobilny/screen1.png)
 
-
-Logowanie
+            Logowanie
 ![Zrzut ekranu #2](https://github.com/aleksandra-rapala/MyChemical/blob/2eb9cbc6016f9a76b0495e8aed8af2c14769fdc2/Screen_widok_webowy/screen2.png)
 
 Rejestracja z walidacją danych
@@ -19,18 +17,18 @@ Rejestracja z walidacją danych
 
 
 
-My board - z możliwością wyszukiwania
+            My board - z możliwością wyszukiwania
 ![Zrzut ekranu #4](https://github.com/aleksandra-rapala/MyChemical/blob/2eb9cbc6016f9a76b0495e8aed8af2c14769fdc2/Screen_widok_webowy/screen5.png)
 
-Kalkulatory
+            Kalkulatory
 ![Zrzut ekranu #5](https://github.com/aleksandra-rapala/MyChemical/blob/2eb9cbc6016f9a76b0495e8aed8af2c14769fdc2/Screen_widok_webowy/screen8.png)
 ![Zrzut ekranu #6](https://github.com/aleksandra-rapala/MyChemical/blob/2eb9cbc6016f9a76b0495e8aed8af2c14769fdc2/Screen_widok_webowy/screen9.png)
 
-Tablice
+            Tablice
 ![Zrzut ekranu #7](https://github.com/aleksandra-rapala/MyChemical/blob/2eb9cbc6016f9a76b0495e8aed8af2c14769fdc2/Screen_widok_webowy/screen6.png)
 ![Zrzut ekranu #8](https://github.com/aleksandra-rapala/MyChemical/blob/2eb9cbc6016f9a76b0495e8aed8af2c14769fdc2/Screen_widok_webowy/screen7.png)
 
-Account
+            Account
 ![Zrzut ekranu #9](https://github.com/aleksandra-rapala/MyChemical/blob/2eb9cbc6016f9a76b0495e8aed8af2c14769fdc2/Screen_widok_webowy/screen10.png)
 
 
@@ -53,11 +51,11 @@ Account
 11. FETCH API (AJAX) -> Zastosowanie Fetch API z użyciem metody POST oraz GET. Przetworzenie otrzymanych danych z serwera w blokach then(). 
 [Przy wyszukiwaniu w search-bar](https://github.com/aleksandra-rapala/MyChemical/blob/400e5f142022479d12d0dc2f9ab5c5de185c7033/public/js/search.js#L20)
 12. DESIGN -> Projekt utrzymany jest w starannej i czytelnej stylistyce. Stosowane są klasy CSS, brak mieszania styli w plikach HTML. Kod CSS jest czytelny i poprawny. [Przykład czytelnego kodu Css](https://github.com/aleksandra-rapala/MyChemical/blob/400e5f142022479d12d0dc2f9ab5c5de185c7033/public/css/style.css#L1)
-13. RESPONSYWNOŚĆ -> Zaprezentowano co najmniej 5 widoków responsywnych, działających pod różne urządzanie wybrane z Narzędzi Deweloperskich przeglądarki. Zastosowano CSS media queries. 
-[Media queries](https://github.com/aleksandra-rapala/MyChemical/blob/400e5f142022479d12d0dc2f9ab5c5de185c7033/public/css/style.css#L167)
+13. RESPONSYWNOŚĆ 
 ![Zrzut ekranu](https://github.com/aleksandra-rapala/MyChemical/blob/47442d1ee2ae338adc652951d0a562a92c39fd8e/Screeny_widok_mobilny/screen1.png)
 
-
+-> Zaprezentowano co najmniej 5 widoków responsywnych, działających pod różne urządzanie wybrane z Narzędzi Deweloperskich przeglądarki. Zastosowano CSS media queries. 
+[Media queries](https://github.com/aleksandra-rapala/MyChemical/blob/400e5f142022479d12d0dc2f9ab5c5de185c7033/public/css/style.css#L167)
 14. LOGOWANIE -> Proces logowania użytkowników w oparciu o bazę danych, zastosowanie odpowiedniego mapowania i weryfikacji. 
 [Logowanie](https://github.com/aleksandra-rapala/MyChemical/blob/400e5f142022479d12d0dc2f9ab5c5de185c7033/src/controllers/SecurityController.php#L22)
 15. SESJA UŻYTKOWNIKA
