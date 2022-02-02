@@ -95,7 +95,7 @@ Administrator posiada funkcjonalności:
 18. WYLOGOWYWANIE -> Usunięto sesję/ ciasteczka przy wylogowaniu użytkownika oraz zaktualizowano bazę danych. 
 [Wylogowanie](https://github.com/aleksandra-rapala/MyChemical/blob/400e5f142022479d12d0dc2f9ab5c5de185c7033/src/controllers/SecurityController.php#L56)
 [Usuwanie ciasteczka](https://github.com/aleksandra-rapala/MyChemical/blob/400e5f142022479d12d0dc2f9ab5c5de185c7033/src/repository/UserRepository.php#L74)
-19. WIDOKI, WYZWALACZ/ FUNKCJE, TRANSAKCJE NA BAZIE DANYCH    -> brak
+19. WIDOKI w bazie danych    -> [Przykład widoku uzytego w zapytaniu select](https://github.com/aleksandra-rapala/MyChemical/blob/fc08a0d806141ace7d01399db6b0de453803065e/src/repository/TableRepository.php#L124)
 20. AKCJE NA REFERENCJACH -> W zapytaniach stosowane są JOINY, odwołanie się do relacyjnych tabel. [Przykład joina](https://github.com/aleksandra-rapala/MyChemical/blob/400e5f142022479d12d0dc2f9ab5c5de185c7033/src/repository/CalculatorRepository.php#L86)
 21. BEZPIECZEŃSTWO -> Hasła są hashowane (dodatkowo zastosowano sól). Dostęp do zawartości dla zalogowanych użytkowników nie jest osiągalny bez autoryzacji.
 [Hashowanie przy użyciu soli](https://github.com/aleksandra-rapala/MyChemical/blob/400e5f142022479d12d0dc2f9ab5c5de185c7033/src/controllers/SecurityController.php#L97)
