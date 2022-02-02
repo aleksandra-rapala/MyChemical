@@ -84,6 +84,9 @@ li a:hover:not(#active_two){
         width: 142vw;
     }
 
+    .middle_container_out{
+        height: 100vh;
+    }
     .menu > ul{
         border-left: solid #8fd6ee81 3px;
         border-top: solid 1px #8fd6ee81;

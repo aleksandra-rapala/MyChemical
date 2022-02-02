@@ -1,13 +1,4 @@
 <!DOCTYPE html>
-
-<?php
-if (!isset($_SESSION['email']) || !(1 == $_SESSION['account_type'])){
-    Routing::run('login');
-}
-else{
-?>
-
-
 <head>
     <link rel="stylesheet" type="text/css" href="/public/css/style.css">
     <link rel="stylesheet" type="text/css" href="/public/css/style_home.css">
@@ -18,11 +9,7 @@ else{
     <script src="https://kit.fontawesome.com/7b3efb56a6.js" crossorigin="anonymous"></script>
     <title>REACTION PAGE</title>
 </head>
-
 <body>
-
-
-
 <div class="top_container">
     <div class="pasek_menu_two">
         <div class="menu_main">
@@ -41,27 +28,16 @@ else{
         </div>
     </div>
 </div>
-
-
 <?php include('public/views/view_template/menu_logout_account.php') ?>
-
-
-
 <div class="middle_container_out">
-
     <section class="middle_container_tab">
-
-
         <form action="addReaction" method="POST" ENCTYPE="multipart/form-data">
             <h1>UPLOAD MY REACTION</h1>
-
             <input name="name_reaction" type="text" placeholder="Name reaction">
             <input name="description" type="text" placeholder="Description">
             <input name="chemical_formula" type="text" placeholder="Chemical formula">
             <input type="file" name="file1">
-
             <button type="submit">send</button>
-
             <div id="pobierz">
 
                 <?php if(isset($messages)){
@@ -71,28 +47,11 @@ else{
                 }
                 ?>
             </div>
-
-
         </form>
-
-
-
     </section>
-
-
-
-
 </div>
-
-
-
-
 <?php include('public/views/view_template/footer.php') ?>
 </body>
 
-
-<?php
-}
-?>
 
 

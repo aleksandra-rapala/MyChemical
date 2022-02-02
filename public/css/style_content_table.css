@@ -38,9 +38,9 @@
 
 .podpis_tabela, .podpis{
 
-    margin-top: 0vh;
-    background: #197a9b 0% 0% no-repeat padding-box;
-    border-radius: 0px;
+    margin-top: 0;
+    background: #197a9b 0 0 no-repeat padding-box;
+    border-radius: 0;
     opacity: 1;
     text-align: center;
     font: normal normal bold 30px/56px Yu Gothic UI;
@@ -54,13 +54,13 @@
     width: 100%;
     grid-template-columns: 1fr 10fr;
     margin-top: 3vh;
-    background: #197a9b 0% 0% no-repeat padding-box;
+    background: #197a9b 0 0 no-repeat padding-box;
 }
 
 #serce{
-    margin-top: 0vh;
-    background: #197a9b 0% 0% no-repeat padding-box;
-    border-radius: 0px;
+    margin-top: 0;
+    background: #197a9b 0 0 no-repeat padding-box;
+    border-radius: 0;
     border: 0;
     opacity: 1;
     text-align: center;
@@ -72,9 +72,9 @@
 
 
 .podpis_tabela{
-    margin-top: 0vh;
-    background: #197a9b 0% 0% no-repeat padding-box;
-    border-radius: 0px;
+    margin-top: 0;
+    background: #197a9b 0 0 no-repeat padding-box;
+    border-radius: 0;
     opacity: 1;
     text-align: center;
     font: normal normal bold 30px/56px Yu Gothic UI;

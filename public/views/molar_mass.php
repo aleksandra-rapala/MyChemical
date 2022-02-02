@@ -1,11 +1,5 @@
 <!DOCTYPE html>
 
-<?php
-if (!isset($_SESSION['email']) || !(1 == $_SESSION['account_type'] || 2 == $_SESSION['account_type'])){
-    Routing::run('login');
-}
-else{
-?>
 
 <head>
     <link rel="stylesheet" type="text/css" href="/public/css/style.css">
@@ -105,7 +99,3 @@ else{
 </body>
 
 
-<?php
-
-}
-?>

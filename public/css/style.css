@@ -13,7 +13,7 @@ div {
 
 /* domyślne buttony */
 button{
-    background: #0F708F 0% 0% no-repeat padding-box;
+    background: #0F708F 0 0 no-repeat padding-box;
     border-radius: 20px;
     text-align: center;
     font: normal normal bold 40px/66px Yu Gothic UI;

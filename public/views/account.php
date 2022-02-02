@@ -1,12 +1,4 @@
 <!DOCTYPE html>
-
-<?php
-if (!isset($_SESSION['email']) || !(1 == $_SESSION['account_type'] || 2 == $_SESSION['account_type'])){
-    Routing::run('login');
-}
-else{
-?>
-
 <head>
     <link rel="stylesheet" type="text/css" href="/public/css/style.css">
     <link rel="stylesheet" type="text/css" href="/public/css/style_home.css">
@@ -15,9 +7,7 @@ else{
     <script src="https://kit.fontawesome.com/7b3efb56a6.js" crossorigin="anonymous"></script>
     <title>ACCOUNT PAGE</title>
 </head>
-
-<body>  
-
+<body>
     <div class="top_container">
         <div class="pasek_menu_two">
             <div class="menu_main">
@@ -36,9 +26,6 @@ else{
             </div>
         </div>
     </div>
-
-
-
     <div class="pasek_menu">
         <img  src="/public/img/logo_blekitne.png">
         <div class="menu">
@@ -48,21 +35,12 @@ else{
             </ul>            
         </div>
     </div>
-
-    
-
     <div class="middle_container_out">
-
-
         <div class="middle_container_account">
-
             <div>
             <p class="tytul"><i class="far fa-user"></i> My account</p>
             </div>
-       
-
             <div class="info">
-        
              <div id="jpudlo">
                   <p id="wybor">E-mail</p>
                   <div class="pole">
@@ -73,30 +51,18 @@ else{
                      ?>
                   </div>
              </div>
-
              <div id="dpudlo">
              <p id="wybor">Password</p>
               <div class="pole">*******</div>
              </div>
-            
              <div id="tpudlo">
               <button onclick="window.location.href='/wylogowanie'">Logout</button>
-
              </div>
             </div>
-        
           </div>
-
     </div>
-
-
-
     <?php include('public/views/view_template/footer.php') ?>
 </body>
 
-
-<?php
-}
-?>
 
 

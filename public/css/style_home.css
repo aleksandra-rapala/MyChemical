@@ -93,7 +93,7 @@
 #tytul{
     margin-top: 10vh;
     font: italic normal normal 60px/55px Sitka Display;
-    line-height: 0px;
+    line-height: 0;
     text-shadow: 1px 1px 10px #343461;
     opacity: 0.99;
     margin-bottom: 8vh;
@@ -141,8 +141,8 @@
 
         grid-template-columns: repeat(3, 1fr);
         grid-template-rows: repeat(1, 1fr);
-        border: 0px solid #305F8E;
-        border-radius: 0px;
+        border: 0 solid #305F8E;
+        border-radius: 0;
 
         height: 35vh;
     }
@@ -190,7 +190,7 @@
     #tytul{
         margin-top: 5vh;
         font: italic normal normal 30px/45px Sitka Display;
-        line-height: 0px;
+        line-height: 0;
         text-shadow: 1px 1px 10px #343461;
         opacity: 0.99;
         margin-bottom: 5vh;
