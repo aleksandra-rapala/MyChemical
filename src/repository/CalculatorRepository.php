@@ -61,7 +61,7 @@ class CalculatorRepository extends Repository
     {
         $result = [];
         $stmt = $this->database->connect()->prepare('
-            SELECT * FROM "calculator" c NATURAL JOIN "board-calculator" bc WHERE "id_board" = :id_board
+            SELECT * FROM "calculator_user" WHERE "id_board" = :id_board
         ');
         $stmt->bindParam(':id_board', $id_board, PDO::PARAM_INT);
         $stmt->execute();
@@ -83,7 +83,7 @@ class CalculatorRepository extends Repository
     {
         $searchString = '%' . strtolower($searchString) . '%';
         $stm = $this->database->connect()->prepare('
-                SELECT * FROM "calculator" c natural join "board-calculator" b WHERE b.id_board = :id_board and LOWER(c.name_calculator) LIKE :search
+                SELECT * FROM "calculator_user" WHERE id_board = :id_board and LOWER(name_calculator) LIKE :search
         ');
 
         $stm->bindParam(':search', $searchString, PDO::PARAM_STR);

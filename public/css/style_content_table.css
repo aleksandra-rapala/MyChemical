@@ -84,6 +84,9 @@
 }
 
 
+.middle_container_out{
+    height: 100vh;
+}
 
 
 @media only screen and (max-device-width: 420px) {

@@ -83,7 +83,7 @@ class TableRepository extends Repository
     {
         $result = [];
         $stmt = $this->database->connect()->prepare('
-            SELECT * FROM "table" t NATURAL JOIN "board-table" bc WHERE id_board=:id_board
+            SELECT * FROM "table_user" WHERE id_board=:id_board
         ');
         $stmt->bindParam(':id_board', $id_board, PDO::PARAM_INT);
         $stmt->execute();
@@ -121,7 +121,7 @@ class TableRepository extends Repository
     {
         $searchString = '%' . strtolower($searchString) . '%';
         $stm = $this->database->connect()->prepare('
-                SELECT * FROM "table" t natural join "board-table" b WHERE b.id_board = :id_board and LOWER(t.name_table) LIKE :search
+                SELECT * FROM "table_user" WHERE id_board = :id_board and LOWER(name_table) LIKE :search
         ');
         $stm->bindParam(':search', $searchString, PDO::PARAM_STR);
         $stm->bindParam(':id_board', $_SESSION['id_board'], PDO::PARAM_INT);
