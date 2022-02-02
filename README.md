@@ -48,3 +48,7 @@ Dodatkowo jest możliwość dodawania reackji chemicznych.
 24. BAZA DANYCH ZRZUCONA DO PLIKU .SQL
     Pobrałam kopię bazy danych wyeksportowaną do pliku .sql, który umieściłam w repozytorium. [Plik sql](https://github.com/aleksandra-rapala/MyChemical/blob/400e5f142022479d12d0dc2f9ab5c5de185c7033/mychemical_baza_danych.sql#L1)
    
+   Wykorzystane technologie
+
+    PHP 7.4, CSS, HTM, JavaScript, PostgreSQL
+
