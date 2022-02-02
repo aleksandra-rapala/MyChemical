@@ -68,6 +68,10 @@ li a:hover:not(#active_two){
     padding: 0;
 }
 
+.middle_container_out{
+    height: 75vh;
+}
+
 
 
 @media only screen and (max-device-width: 420px) {

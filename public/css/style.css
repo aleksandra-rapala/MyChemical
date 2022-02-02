@@ -110,7 +110,7 @@ li a:hover:not(#active_one){
 /*kontener środkowy-główny*/
 .middle_container_out{
     background: radial-gradient(closest-side, #8fd6ee7a, #fefffe, #fefffe);
-    height: 200vh;
+
 
 }
 
