@@ -3,7 +3,7 @@
 Dokumentacja aplikacji „MyChemical”
 
 Aplikacja jest przeznaczona dla młodych ludzi uczących się chemii.
-Dzięki niej można mieć zawsze pod ręką ulubione tablice chemiczne lub przydatne kalkulatorym poprzez dawawnie serduszek.
+Dzięki niej można mieć zawsze pod ręką ulubione tablice chemiczne lub przydatne kalkulatory poprzez dawawnie serduszek.
 Dodatkowo jest możliwość dodawania reackji chemicznych.
 
 Aplikacja posiada dwa typy rodzajów kont: użytkownik oraz administrator.
