@@ -6,29 +6,29 @@ Aplikacja jest przeznaczona dla młodych ludzi uczących się chemii.
 Dzięki niej można mieć zawsze pod ręką ulubione tablice chemiczne lub przydatne kalkulatory.
 Dodatkowo jest możliwość dodawania reackji chemicznych.
 
-            Home
+            Home - Strona główna aplikacji
 ![Zrzut ekranu #1](https://github.com/aleksandra-rapala/MyChemical/blob/92ca31b614b1249f1f15ff133601855d94cb68b5/Screen_widok_webowy/screen1.png)
 
             Logowanie
 ![Zrzut ekranu #2](https://github.com/aleksandra-rapala/MyChemical/blob/2eb9cbc6016f9a76b0495e8aed8af2c14769fdc2/Screen_widok_webowy/screen2.png)
 
-Rejestracja z walidacją danych
+            Rejestracja z walidacją danych
 ![Zrzut ekranu #3](https://github.com/aleksandra-rapala/MyChemical/blob/2eb9cbc6016f9a76b0495e8aed8af2c14769fdc2/Screen_widok_webowy/screen4.png)
 
 
 
-            My board - z możliwością wyszukiwania
+            My board - z możliwością wyszukiwania polikowanych przez użytkownika tablic, kalkulatorów oraz stworzonych reakcji
 ![Zrzut ekranu #4](https://github.com/aleksandra-rapala/MyChemical/blob/2eb9cbc6016f9a76b0495e8aed8af2c14769fdc2/Screen_widok_webowy/screen5.png)
 
-            Kalkulatory
+            Kalkulatory - z możliwością polikowania danego kalkulatora
 ![Zrzut ekranu #5](https://github.com/aleksandra-rapala/MyChemical/blob/2eb9cbc6016f9a76b0495e8aed8af2c14769fdc2/Screen_widok_webowy/screen8.png)
 ![Zrzut ekranu #6](https://github.com/aleksandra-rapala/MyChemical/blob/2eb9cbc6016f9a76b0495e8aed8af2c14769fdc2/Screen_widok_webowy/screen9.png)
 
-            Tablice
+            Tablice - z możliwością polikowania danej tablicy
 ![Zrzut ekranu #7](https://github.com/aleksandra-rapala/MyChemical/blob/2eb9cbc6016f9a76b0495e8aed8af2c14769fdc2/Screen_widok_webowy/screen6.png)
 ![Zrzut ekranu #8](https://github.com/aleksandra-rapala/MyChemical/blob/2eb9cbc6016f9a76b0495e8aed8af2c14769fdc2/Screen_widok_webowy/screen7.png)
 
-            Account
+            Account - swoje konto z widocznym emailem zalogowanego użytkownika (w przyszłości można zrobić np. usuwanie konta)
 ![Zrzut ekranu #9](https://github.com/aleksandra-rapala/MyChemical/blob/2eb9cbc6016f9a76b0495e8aed8af2c14769fdc2/Screen_widok_webowy/screen10.png)
 
 
