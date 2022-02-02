@@ -3,21 +3,32 @@
 Dokumentacja aplikacji „MyChemical”
 
 Aplikacja jest przeznaczona dla młodych ludzi uczących się chemii.
-Dzięki niej można mieć zawsze pod ręką ulubione tablice chemiczne lub przydatne kalkulatory.
+Dzięki niej można mieć zawsze pod ręką ulubione tablice chemiczne lub przydatne kalkulatorym poprzez dawawnie serduszek.
 Dodatkowo jest możliwość dodawania reackji chemicznych.
 
-            Home - Strona główna aplikacji
+Aplikacja posiada dwa typy rodzajów kont: użytkownik oraz administrator.
+
+Użytkownik posiada funkcjonalności:
+-> przeglądać i wyszukiwać w "My board" polikowane tablice, kalkulatory oraz dodane reakcje chemiczne
+-> przeglądać kalkulatory oraz tablice
+-> dodawać reakcje chemiczne
+
+Administrator posiada funkcjonalności:
+-> dodawać nowe tablice
+-> przeglądać kalkulatory oraz tablice (bez możliwości likowania)
+
+                        Home - Strona główna aplikacji
 ![Zrzut ekranu #1](https://github.com/aleksandra-rapala/MyChemical/blob/92ca31b614b1249f1f15ff133601855d94cb68b5/Screen_widok_webowy/screen1.png)
 
-            Logowanie
+                        Logowanie
 ![Zrzut ekranu #2](https://github.com/aleksandra-rapala/MyChemical/blob/2eb9cbc6016f9a76b0495e8aed8af2c14769fdc2/Screen_widok_webowy/screen2.png)
 
-            Rejestracja z walidacją danych
+                        Rejestracja z walidacją danych
 ![Zrzut ekranu #3](https://github.com/aleksandra-rapala/MyChemical/blob/2eb9cbc6016f9a76b0495e8aed8af2c14769fdc2/Screen_widok_webowy/screen4.png)
 
 
 
-            My board - z możliwością wyszukiwania polikowanych przez użytkownika tablic, kalkulatorów oraz stworzonych reakcji
+            My board użytkownika - z możliwością wyszukiwania polikowanych przez użytkownika tablic, kalkulatorów oraz stworzonych reakcji
 ![Zrzut ekranu #4](https://github.com/aleksandra-rapala/MyChemical/blob/2eb9cbc6016f9a76b0495e8aed8af2c14769fdc2/Screen_widok_webowy/screen5.png)
 
             Kalkulatory - z możliwością polikowania danego kalkulatora
@@ -31,9 +42,8 @@ Dodatkowo jest możliwość dodawania reackji chemicznych.
             Account - swoje konto z widocznym emailem zalogowanego użytkownika (w przyszłości można zrobić np. usuwanie konta)
 ![Zrzut ekranu #9](https://github.com/aleksandra-rapala/MyChemical/blob/2eb9cbc6016f9a76b0495e8aed8af2c14769fdc2/Screen_widok_webowy/screen10.png)
 
-            Zakładka Add reactions poznwala użytkownikowi dodawac do swojej My board reakcje chemiczne
-            
-            tu zdjecie
+            Zakładka Add reactions pozwala użytkownikowi dodawać do swojej My board reakcje chemiczne
+![Zrzut ekranu #10](https://github.com/aleksandra-rapala/MyChemical/blob/bfc4612d07bdd7261f3efc56fff16c07b536d23b/Screen_widok_webowy/screen13.png)
 
 
             Administrator posiada inną zakładkę My board- z możliwością dodawania tablic (Administrator nie posiada zakładki Add reactions)
@@ -41,6 +51,7 @@ Dodatkowo jest możliwość dodawania reackji chemicznych.
             
             Administrator nie posiada również możliwości likowania
 ![Zrzut ekranu #12](https://github.com/aleksandra-rapala/MyChemical/blob/ce3696b92753eb4971291719277ded7b579dc302/Screen_widok_webowy/screen12.png)            
+
 
 1. DOKUMENTACJE W README.MD
 2. KOD NAPISANY OBIEKTOWO (CZĘŚĆ BACKENDOWA)
